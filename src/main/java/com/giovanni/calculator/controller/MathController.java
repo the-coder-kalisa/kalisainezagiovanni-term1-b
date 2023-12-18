@@ -1,8 +1,8 @@
-package com.giovanni.calculator.calculator.controller;
+package com.giovanni.calculator.controller;
 
-import com.giovanni.calculator.calculator.dto.DoMathRequest;
-import com.giovanni.calculator.calculator.exception.InvalidOperationException;
-import com.giovanni.calculator.calculator.service.MathOperator;
+import com.giovanni.calculator.dto.DoMathRequest;
+import com.giovanni.calculator.exception.InvalidOperationException;
+import com.giovanni.calculator.service.MathOperator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

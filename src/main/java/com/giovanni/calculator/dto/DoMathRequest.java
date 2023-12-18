@@ -1,4 +1,4 @@
-package com.giovanni.calculator.calculator.dto;
+package com.giovanni.calculator.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

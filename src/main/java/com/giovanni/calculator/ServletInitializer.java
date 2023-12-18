@@ -1,4 +1,4 @@
-package com.giovanni.calculator.calculator;
+package com.giovanni.calculator;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

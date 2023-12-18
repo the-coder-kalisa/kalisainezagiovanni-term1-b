@@ -1,4 +1,4 @@
-package com.giovanni.calculator.calculator.exception;
+package com.giovanni.calculator.exception;
 
 public class InvalidOperationException extends Exception {
 
